@@ -18,6 +18,6 @@ Download the source code, and open index.html.
 
 If the original game updates, run update.sh.
 
-#### 5. Report update here :)
+### Report update here :)
 
 If you happen to update, please make a pull request for others to benefit, thanks!
